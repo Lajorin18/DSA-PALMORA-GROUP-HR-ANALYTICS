@@ -42,3 +42,4 @@ Built in Power BI, the dashboard provides actionable insights into:
 - Adjust salaries below $90K to meet legal requirements.
 - Continue performance-based bonuses to boost retention.
 
+![image alt](https://github.com/Lajorin18/DSA-PALMORA-GROUP-HR-ANALYTICS/blob/main/Screenshot%202025-07-18%20084115.png?raw=true)
